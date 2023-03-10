@@ -1,1 +1,2 @@
 system devops
+shell permissions
